@@ -1,0 +1,14 @@
+G:\2024-2025 fall\mobile application development\mod 1 assignment\bin\Debug\net8.0\mod 1 assignment.exe
+G:\2024-2025 fall\mobile application development\mod 1 assignment\bin\Debug\net8.0\mod 1 assignment.deps.json
+G:\2024-2025 fall\mobile application development\mod 1 assignment\bin\Debug\net8.0\mod 1 assignment.runtimeconfig.json
+G:\2024-2025 fall\mobile application development\mod 1 assignment\bin\Debug\net8.0\mod 1 assignment.dll
+G:\2024-2025 fall\mobile application development\mod 1 assignment\bin\Debug\net8.0\mod 1 assignment.pdb
+G:\2024-2025 fall\mobile application development\mod 1 assignment\obj\Debug\net8.0\mod 1 assignment.GeneratedMSBuildEditorConfig.editorconfig
+G:\2024-2025 fall\mobile application development\mod 1 assignment\obj\Debug\net8.0\mod 1 assignment.AssemblyInfoInputs.cache
+G:\2024-2025 fall\mobile application development\mod 1 assignment\obj\Debug\net8.0\mod 1 assignment.AssemblyInfo.cs
+G:\2024-2025 fall\mobile application development\mod 1 assignment\obj\Debug\net8.0\mod 1 assignment.csproj.CoreCompileInputs.cache
+G:\2024-2025 fall\mobile application development\mod 1 assignment\obj\Debug\net8.0\mod 1 assignment.dll
+G:\2024-2025 fall\mobile application development\mod 1 assignment\obj\Debug\net8.0\refint\mod 1 assignment.dll
+G:\2024-2025 fall\mobile application development\mod 1 assignment\obj\Debug\net8.0\mod 1 assignment.pdb
+G:\2024-2025 fall\mobile application development\mod 1 assignment\obj\Debug\net8.0\mod 1 assignment.genruntimeconfig.cache
+G:\2024-2025 fall\mobile application development\mod 1 assignment\obj\Debug\net8.0\ref\mod 1 assignment.dll
